@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS Avançado</title>
-    <link rel="stylesheet" href="styles/main.css">
-</head>
+
 <body>
     <header>
         <h1>CSS Avançado</h1>
